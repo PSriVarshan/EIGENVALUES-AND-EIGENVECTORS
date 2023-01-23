@@ -33,7 +33,8 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 
 ## Output:
 
-![](eigencalues%26vectors.png)
+![image](https://user-images.githubusercontent.com/114944059/214043119-04031193-c564-4c47-94a0-992d1c3415dc.png)
+
 
 ## Result:
 
